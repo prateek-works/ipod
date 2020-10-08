@@ -1,0 +1,11 @@
+#screen{
+    width:280px ;
+    margin:0 auto; 
+   height: 195px;
+   padding: 0px;
+   background-color: white;  
+}
+img{
+    height: 195px;
+    width: 280px;
+}

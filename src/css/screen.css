@@ -1,0 +1,40 @@
+
+ #screen{
+    padding: 0px;
+      width:280px ;
+      margin:0 auto; 
+     height: 195px;
+     padding: 0px;
+  }
+  #leftScreen{
+    width: 50%;
+    height: 100%;
+  }
+   #imageContainer{
+    position: relative;
+    margin-left: 47%;
+    margin-top: -76%;
+    height: 100%;
+  }
+  
+  #image{
+    height: 196px;
+    width: 148px;
+  }  
+  #leftScreen li{
+    font-size: 19px;
+    width: 120%;
+    padding: 4%;
+  }
+  li{
+    list-style: none;
+  }
+  .inactive , .active{
+    font-size: 22px;
+    margin-left: -40%;
+  }
+  .active{
+    background-color: white;
+    margin-left: -40%;
+    font-size: 34px;
+  }

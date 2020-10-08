@@ -1,0 +1,40 @@
+#screen{
+    width:280px ;
+    margin:0 auto; 
+   height: 195px;
+   padding: 0px;
+   background-color: blue; 
+}
+#container{
+    display: flex;
+    justify-content: space-between;
+}
+#songImage{
+    margin-top: 35%;
+    margin-left: 30%;
+    height: 80px;
+    width: 80px;
+}
+#songName{
+    margin-top: 15%;
+
+    margin-right: 9%;
+}
+#songDurationContainer{
+    display: flex;
+    justify-content: space-between;
+}
+#songLength{
+    margin-top: 12%;
+    margin-left: 5%;
+    width: 250px;
+    height: 5px;
+    border-radius: 20px;
+    background-color: greenyellow;
+}
+#songStart{
+    margin-left: 4%;
+}
+#songEnd{
+    margin-right: 4%;
+}

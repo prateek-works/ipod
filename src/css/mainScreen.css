@@ -1,0 +1,47 @@
+
+#screen{
+    display: block;
+    margin:0 auto;
+     margin-top: 5%; 
+    height: 250px;
+    border: 2px solid grey;
+    background-color: black;
+    box-shadow: 0 0 20px 3px red;
+  }
+  #statusBar{
+      height:  22px;
+      display: flex;
+      background-color: black;
+      /* border-bottom-style:outset ; */
+      border-top: 2px solid grey;
+      border-left: 2px solid grey;
+      border-right: 2px solid grey;
+
+  }
+  #statusBar p{
+    color: white;
+      margin: 0px;
+      font-size: 15px;
+      margin-left: 1%;
+      margin-right: 3% ;
+  }
+  #wifi{
+    color: white;
+  }
+  #time{
+      margin-left: 20%;
+      color:white;
+  }
+  #battery{
+      margin-left: 36%;
+      color: green;
+  }
+  #fullScreen{
+    margin-left: -1.5px; 
+   height: 195px;
+   padding: 0px;
+   background-color: black;
+  }
+ 
+  
+  

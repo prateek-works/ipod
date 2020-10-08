@@ -1,0 +1,11 @@
+#screen{
+    width:280px ;
+    margin:0 auto; 
+   height: 195px;
+   padding: 0px;
+   background-color: black;  
+}
+#screenItems{
+    width: 242px;
+    margin-left: 14%;
+}
