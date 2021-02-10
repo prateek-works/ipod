@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/ipod/static/media/games2.d81f5175.png"
   },
   {
-    "revision": "8e4f09905ed115b2914e587554a6f749",
+    "revision": "52d59e8bb93ef8ef7456df6d2da39ae3",
     "url": "/ipod/index.html"
   }
 ];
